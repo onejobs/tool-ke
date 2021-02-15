@@ -1,0 +1,9 @@
+react 初始化项目的两种方法
+
+npm install -g create-react-app
+create-react-app reactdemo
+cd reactdemo
+npm start
+
+npx create-react-app reactdemo
+
